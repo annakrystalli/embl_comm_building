@@ -413,8 +413,6 @@ class: inverse, center, middle
 ## code of conduct
 
 ---
-background-image: url(https://raw.githubusercontent.com/acabunoc/open-source-strangeloop-2016/gh-pages/img/mentorship_14.jpg)
-
 ### important first step in establishing an inclusive culture
 
 --
@@ -425,9 +423,11 @@ background-image: url(https://raw.githubusercontent.com/acabunoc/open-source-str
 - consistent enforcement
 - continuous measurement/improvement.
 
-#
+
 ---
 
+background-image: url(https://raw.githubusercontent.com/acabunoc/open-source-strangeloop-2016/gh-pages/img/mentorship_14.jpg)
+#
 # mentorship programs
 
 .footnote[image credit: [Abigail Cabunoc Mayes](https://github.com/acabunoc/open-source-strangeloop-2016/blob/gh-pages/img/mentorship_14.jpg)]
