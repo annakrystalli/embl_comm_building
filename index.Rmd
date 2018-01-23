@@ -410,9 +410,9 @@ class: inverse, center, middle
 - ### people like to be acknowledged and validated.
 
 ---
-## code of conduct
+#
+# code of conduct
 
----
 ### important first step in establishing an inclusive culture
 
 --
